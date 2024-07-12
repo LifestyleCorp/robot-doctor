@@ -1,7 +1,8 @@
-# robot-doctor
+# ROBOT-DOCTOR : BAYMAX
 
-End to End complete biomedical device for general medical purpose
-Advanced mulitmodal embeddable AI inisde a visuo tactile sensor robot hands that is teleoperable and autonomous end to end for biomedical clinical purposes
+- End to End complete biomedical device for general medical purpose
+- Advanced mulitmodal embeddable AI inisde a visuo tactile sensor robot hands
+- The device is teleoperable and end to end autonomous for biomedical clinical purposes
 
 # Multiomodal sensation:
 - Audio (Voice, Pitch, loudness, timbre,duration, location) using Voice transcribing LLM
@@ -21,7 +22,7 @@ Advanced mulitmodal embeddable AI inisde a visuo tactile sensor robot hands that
 # Clinical Functions:
 - Didactic History taking of symptoms
 - Differential Diagnosis from History
-- Taking vital signs (Pulse, Respiratory Rate , Blood Presure, Temperature)
+- Taking vital signs (Pulse, Respiratory Rate , Blood Pressure, Temperature)
 - Perform General examination (Pallor, Icterus, Cyanosis, Clubbing, Lymphadenopathy , Edema)
 - Perform General Body measurement (BMI, height, Arm span, body span, stature, gait, musculature, bodyfat, handicap)
 - Perform General Mental status (alertness, responsiveness, aware of space, time and location, Glascow Coma Score)
@@ -44,12 +45,13 @@ Advanced mulitmodal embeddable AI inisde a visuo tactile sensor robot hands that
 - Correctly injecting out medicine stored in rubberised cap vials
 - Giving Sterile injections with a 2 cc, 5 cc , 10cc and 15 cc syringe
 - Sterile Withdrawing Venous Blood and fluid with a 2cc , 5cc , 10cc and 15 cc syringe
+- Correctly injecting out blood and fluid into rubberised cap sample tubes
 - Sterile Arterial blood withdrawl from radial artery near anatomical snuff box
 - Sterile catheterising patient through the urethra with a foleys catheter
-- Restraining Patient body , limbs , joints and wounds
+- Restraining the patient body , limbs , joints and wounds
 - Admit the patient to the ward by shifting the patient from stetcher or wheelchar to the bed
-- Updating Patient reports regularly
 - Monitor Patient regularly
+- Updating Patient reports regularly
 - Attend rounds and grand rounds with doctors
 - Update patient vitals, clinical symptoms, signs and check for new symptoms and signs
 - Referral the patient to appropriate clinical specialist
