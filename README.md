@@ -1,8 +1,9 @@
 # ROBOT-DOCTOR : BAYMAX
 
 - End to End complete biomedical device for general medical purpose
-- Advanced mulitmodal embeddable AI inisde a visuo tactile sensor robot hands
+- Advanced mulitmodal embeddable AI inside a visuo-tactile-sensor robot hands
 - The device is teleoperable and end to end autonomous for biomedical clinical purposes
+- It has 2 robot hands and one 4k vision camera head
 
 # Multiomodal sensation:
 - Audio (Voice, Pitch, loudness, timbre,duration, location) using Voice transcribing LLM
