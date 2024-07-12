@@ -5,7 +5,7 @@
 - The device is teleoperable and end to end autonomous for biomedical clinical purposes
 - It has 2 robot hands and one 4k vision camera head
 
-# Multiomodal sensation:
+# Multi-modal Sensation:
 - Audio (Voice, Pitch, loudness, timbre,duration, location) using Voice transcribing LLM
 - Language(Text multilingual) using multilingual LLM
 - Vision (2d image, 3d image ,4d image, video, colour, depth,shape,brightness,motion)  using computer vision models
@@ -38,7 +38,7 @@
 - Presenting Case report to doctors
 - Prescribing patient medicine and correct orders for the clinical staff like nurses
 - Identifying medical instruments and devices
-- Holding instruments and devices correctly
+- Holding instruments and devices correctly and maintaining sterility
 - Placing surgical sutures correctly on the wound
 - Placing IV cannula on the dorsal veins of hand bilaterally
 - Correctly fixing IV set and IV line onto the cannula as per prescription
@@ -46,7 +46,7 @@
 - Correctly injecting out medicine stored in rubberised cap vials
 - Giving Sterile injections with a 2 cc, 5 cc , 10cc and 15 cc syringe
 - Sterile Withdrawing Venous Blood and fluid with a 2cc , 5cc , 10cc and 15 cc syringe
-- Correctly injecting out blood and fluid into rubberised cap sample tubes
+- Sterile injecting out blood and fluid into appropriate rubberised cap sample tubes
 - Sterile Arterial blood withdrawl from radial artery near anatomical snuff box
 - Sterile catheterising patient through the urethra with a foleys catheter
 - Restraining the patient body , limbs , joints and wounds
