@@ -8,37 +8,76 @@ Advanced mulitmodal embeddable AI inisde a visuo tactile sensor robot hands that
 - Language(Text multilingual) using multilingual LLM
 - Vision (2d image, 3d image ,4d image, video, colour, depth,shape,brightness,motion)  using computer vision models
 - Touch (pressure, temperature, pain, vibration, texture)  using computer vision touch sensor
- Stereognosis (Deep learning grasp sensors) using
- Gustatory (sweet, salty, sour,bitter ,umami) using
- Olfactory (aromatic, pungent, musty, fruity, putrid) using
- Proprioception (position sense, kinesthetic sense,muscle tension) using
- vestibular sensation (balance, acceleration) using
- Introceptive sensation (hunger, thirst, fullness, heart rate, respiration) using
- Thermoceptive sensation (heat, cold) using
- Nociceptive sensation (sharp pain, dull pain, burning pain, aching pain) using
- Emotional sensation (happiness, sadness, fear, anger, love) using
+- Stereognosis (Deep learning grasp sensors) using
+- Gustatory (sweet, salty, sour,bitter ,umami) using
+- Olfactory (aromatic, pungent, musty, fruity, putrid) using
+- Proprioception (position sense, kinesthetic sense,muscle tension) using
+- vestibular sensation (balance, acceleration) using
+- Introceptive sensation (hunger, thirst, fullness, heart rate, respiration) using
+- Thermoceptive sensation (heat, cold) using
+- Nociceptive sensation (sharp pain, dull pain, burning pain, aching pain) using
+- Emotional sensation (happiness, sadness, fear, anger, love) using
 
 # Clinical Functions:
- Didactic History taking of symptoms
- Differential Diagnosis from History
- Performing clinical examination
- Eliciting clinical signs
- Differential Diagnosis from History and Examination
- Performing Investigations
- Sending Investigation orders
- Using EHR (Physically and virtually)
- Identifying medical instruments and devices
- Holding instruments and devices correctly
- Placing sutures
- Placing IV cannula
- Restraining Patient body
- 
+- Didactic History taking of symptoms
+- Differential Diagnosis from History
+- Taking vital signs (Pulse, Respiratory Rate , Blood Presure, Temperature)
+- Perform General examination (Pallor, Icterus, Cyanosis, Clubbing, Lymphadenopathy , Edema)
+- Perform General Body measurement (BMI, height, Arm span, body span, stature, gait, musculature, bodyfat, handicap)
+- Perform General Mental status (alertness, responsiveness, aware of space, time and location, Glascow Coma Score)
+- Performing clinical examination per organ system
+- Eliciting positive clinical signs of diseases
+- Eliciting negative clinical signs of diseases
+- Differential Diagnosis from History and Examination
+- Sending Investigation orders to laboratory
+- Summarising entire medical case workup
+- Using Electronic Health Records (Physically and virtually)
+- Summarising Medical Management plan of the patient
+- Presenting Case report to doctors
+- Prescribing patient medicine and correct orders for the clinical staff like nurses
+- Identifying medical instruments and devices
+- Holding instruments and devices correctly
+- Placing surgical sutures correctly on the wound
+- Placing IV cannula on the dorsal veins of hand bilaterally
+- Correctly fixing IV set and IV line onto the cannula as per prescription
+- Correctly breaking open medicine stored in glass vials
+- Correctly injecting out medicine stored in rubberised cap vials
+- Giving Sterile injections with a 2 cc, 5 cc , 10cc and 15 cc syringe
+- Sterile Withdrawing Venous Blood and fluid with a 2cc , 5cc , 10cc and 15 cc syringe
+- Sterile Arterial blood withdrawl from radial artery near anatomical snuff box
+- Sterile catheterising patient through the urethra with a foleys catheter
+- Restraining Patient body , limbs , joints and wounds
+- Admit the patient to the ward by shifting the patient from stetcher or wheelchar to the bed
+- Updating Patient reports regularly
+- Monitor Patient regularly
+- Attend rounds and grand rounds with doctors
+- Update patient vitals, clinical symptoms, signs and check for new symptoms and signs
+- Referral the patient to appropriate clinical specialist
+- Prepare the patient for minor or major medical and surgical procedures
+- Readmit the patient back to the ward by shifting the patient from stetcher or wheelchar to the bed
+- Monitor the patient for post procedure complications
+- Write discharge summary
+- Prescribe discharge medications
+
 # Materials
+- Digital Pinki Version 2
+- Opensource visuo tactile hand models
+- 3d printer
+- Arduino
+- Actuators
 
 # API needed
+- ChatGPT40 API
+- Fastwhisper API
+- Vision Language Touch Multimodal LLM
 
 # Softwares needed
 
 # Installation Guide
 
 # Steps to build robot doctor
+
+# contact
+- Dr.Rahul Jaic Sam
+- rahuljaicsam@gmail.com
+- Whatsapp : +91 9497612942
