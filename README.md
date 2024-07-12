@@ -56,7 +56,8 @@
 - Attend rounds and grand rounds with doctors
 - Update patient vitals, clinical symptoms, signs and check for new symptoms and signs
 - Referral the patient to appropriate clinical specialist
-- Prepare the patient for minor or major medical and surgical procedures
+- Prepare the patient to be shifted for minor or major medical and surgical procedures
+- Assisting the surgeon, specialists and anesthetists by passing instruments and devices while maintaining sterility
 - Readmit the patient back to the ward by shifting the patient from stetcher or wheelchar to the bed
 - Monitor the patient for post procedure complications
 - Write discharge summary
@@ -70,8 +71,8 @@
 - Actuators
 
 # API needed
-- ChatGPT40 API
-- Fastwhisper API
+- ChatGPT4o
+- whisper
 - Vision Language Touch Multimodal LLM
 
 # Softwares needed
