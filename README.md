@@ -4,10 +4,10 @@ End to End complete biomedical device for general medical purpose
 Advanced mulitmodal embeddable AI inisde a visuo tactile sensor robot hands that is teleoperable and autonomous end to end for biomedical clinical purposes
 
 # Multiomodal sensation:
- Audio (Voice, Pitch, loudness, timbre,duration, location) using Voice transcribing LLM
- Language(Text multilingual) using multilingual LLM
- Vision (2d image, 3d image ,4d image, video, colour, depth,shape,brightness,motion)  using computer vision models
- Touch (pressure, temperature, pain, vibration, texture)  using computer vision touch sensor
+- Audio (Voice, Pitch, loudness, timbre,duration, location) using Voice transcribing LLM
+- Language(Text multilingual) using multilingual LLM
+- Vision (2d image, 3d image ,4d image, video, colour, depth,shape,brightness,motion)  using computer vision models
+- Touch (pressure, temperature, pain, vibration, texture)  using computer vision touch sensor
  Stereognosis (Deep learning grasp sensors) using
  Gustatory (sweet, salty, sour,bitter ,umami) using
  Olfactory (aromatic, pungent, musty, fruity, putrid) using
