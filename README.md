@@ -84,4 +84,5 @@
 # contact
 - Dr.Rahul Jaic Sam
 - rahuljaicsam@gmail.com
-- Whatsapp : +91 9497612942
+- Twitter : @JaicSam
+  
