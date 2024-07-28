@@ -9,7 +9,7 @@
 - Audio (Voice, Pitch, loudness, timbre,duration, location) using Voice transcribing LLM
 - Language(Text multilingual) using multilingual LLM
 - Vision (2d image, 3d image ,4d image, video, colour, depth,shape,brightness,motion)  using computer vision models
-- Touch (pressure, temperature, pain, vibration, texture)  using computer vision touch sensor
+- Touch (pressure, temperature, pain, vibration, texture)  using computer vision touch sensor and Vision-touch-LLM model
 - Stereognosis (Deep learning grasp sensors) using
 - Gustatory (sweet, salty, sour,bitter ,umami) using
 - Olfactory (aromatic, pungent, musty, fruity, putrid) using
@@ -18,7 +18,7 @@
 - Introceptive sensation (hunger, thirst, fullness, heart rate, respiration) using
 - Thermoceptive sensation (heat, cold) using
 - Nociceptive sensation (sharp pain, dull pain, burning pain, aching pain) using
-- Emotional sensation (happiness, sadness, fear, anger, love) using
+- Emotional sensation (happiness, sadness, fear, anger, love) using lumalabs , chatgpt4o
 
 # Clinical Functions:
 - Didactic History taking of symptoms
@@ -37,8 +37,14 @@
 - Summarising Medical Management plan of the patient
 - Presenting Case report to doctors
 - Prescribing patient medicine and correct orders for the clinical staff like nurses
-- Identifying medical instruments and devices
+- Identifying medical diganostic and therapeutic instruments and devices
 - Holding instruments and devices correctly and maintaining sterility
+- Handling glass slides and cover slides without damaging them
+- Handling handheld biochemistry lab equipment like spectrophotometer, centrifuges, PCR machines , chromatogrpahy, glass vessels and bunsen burners safely
+- Handling large equipment like autoclaves, incubators , cell culture equipments , refridgeration and freezing equipments
+- Handling fine equipments like pipettes, glasswares, liquid handling , pH meters and temperature control systems
+- Handling microplate readers, electrophoresis equipment, caloriemeters, safety and maintenance equipments
+- Handling microscopes, pathology, forensic and microbiology specimen without damaging them
 - Placing surgical sutures correctly on the wound
 - Placing IV cannula on the dorsal veins of hand bilaterally
 - Correctly fixing IV set and IV line onto the cannula as per prescription
@@ -65,10 +71,21 @@
 
 # Materials
 - Digital Pinki Version 2
-- Opensource visuo tactile hand models
-- 3d printer
+- Opensource visuo tactile sensor models
+- Opensource Dex hands
+- Opensource Humanoid Arm Assembly
+- 3d printers
 - Arduino
 - Actuators
+- High end GPU laptop
+- High speed internet
+- High Data Storage
+- 4k cameras
+- web cameras
+
+# Data needed
+
+# Data Collected
 
 # API needed
 - ChatGPT4o
