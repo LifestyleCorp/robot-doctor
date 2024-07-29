@@ -6,6 +6,7 @@
 - It has 2 robot hands and one 4k vision camera head
 
 # Multi-modal Sensation:
+
 - Audio (Voice, Pitch, loudness, timbre,duration, location) using Voice transcribing LLM
 - Language(Text multilingual) using multilingual LLM
 - Vision (2d image, 3d image ,4d image, video, colour, depth,shape,brightness,motion)  using computer vision models
@@ -21,6 +22,7 @@
 - Emotional sensation (happiness, sadness, fear, anger, love) using lumalabs , chatgpt4o
 
 # Clinical Functions:
+
 - Didactic History taking of symptoms
 - Differential Diagnosis from History
 - Taking vital signs (Pulse, Respiratory Rate , Blood Pressure, Temperature)
@@ -70,6 +72,7 @@
 - Prescribe discharge medications
 
 # Materials
+
 - Digital Pinki Version 2
 - Opensource visuo tactile sensor models
 - Opensource Dex hands
@@ -84,12 +87,14 @@
 - web cameras
 
 # Data needed
+
 - text 
 - audio
 - video
 - image
 
 # Data Collected
+
 - glossary of medical terms, native medical slangs, equipment and procedures
 - videos on history taking
 - videos on clinical examination
@@ -105,6 +110,7 @@
 - real life images taken of medical device UI and EHR
 
 # API needed
+
 - Large Language Model API (ChatGPT4o, GPT40 mini, Claude , Mistral and Llama 3)
 - Speech Recognition and Synthesis API(whisper)
 - Vision Language Touch Multimodal LLM
@@ -119,7 +125,9 @@
 - Battery Management API
 - Camera API
 - Teleoperation API
+- 
 ## User Interface APIs
+
 - Control Interface API
 Graphical user interface for doctors to interact with the robotic system.
 Touchscreen and voice command support.
@@ -128,6 +136,7 @@ Provide tactile feedback to the user.
 Real-time haptic feedback during procedures.
 
 ## Safety and Compliance APIs
+
 - Emergency Stop API
 Interface to immediately halt all operations.
 Safety protocols and fail-safes.
@@ -212,9 +221,10 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## **Contact**
 
-If you have any questions or comments about Project Title, please contact **[Your Name](you@example.com)**.
-- **[Dr.Rahul Jaic Sam](rahuljaicsam@gmail.com)**
-- **Twitter : @JaicSam**
+If you have any questions or comments about Project Title, please contact :
+- **[Dr.Rahul Jaic Sam](https://github.com/rahuljaicsam)**
+- **Gmail: (rahuljaicsam@gmail.com)**
+- **Twitter : [@JaicSam](https://x.com/JaicSam)**
 
 ## **Conclusion**
 
