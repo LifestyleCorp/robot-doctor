@@ -19,7 +19,8 @@ The HRD system architecture consists of several integrated subsystems, including
 
 #### **High-Level Architecture Diagram**
 
-![High-Level Architecture Diagram](https://dummyimage.com/600x400/000/fff&text=High-Level+Architecture+Diagram)
+![output (8)](https://github.com/user-attachments/assets/fe9ef62e-82e8-4c78-aa4e-6bc854b74c44)
+
 
 ---
 
