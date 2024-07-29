@@ -156,7 +156,8 @@ The HRD system architecture consists of several integrated subsystems, including
 
 #### **6.1 Data Flow Diagram**
 
-![Data Flow Diagram](https://dummyimage.com/600x400/000/fff&text=Data+Flow+Diagram)
+![output (9)](https://github.com/user-attachments/assets/ab37ff26-ac42-4017-98db-10b6e2675889)
+
 
 #### **6.2 Data Integration**
 
