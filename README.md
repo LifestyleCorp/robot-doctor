@@ -84,13 +84,56 @@
 - web cameras
 
 # Data needed
+- text 
+- audio
+- video
+- image
 
 # Data Collected
+- glossary of medical terms, native medical slangs, equipment and procedures
+- videos on history taking
+- videos on clinical examination
+- videos on clinical equipments
+- videos on clinical procedures
+- videos on surgical procedures
+- videos on imaging data
+- OCR from multilingual handwritten paper reports
+- CME presentations
+- Medical research papers
+- Medical text books
+- screenshots of EMR and medical infographics
+- real life images taken of medical device UI and EHR
 
 # API needed
-- ChatGPT4o
-- whisper
+- Large Language Model API (ChatGPT4o, GPT40 mini, Claude , Mistral and Llama 3)
+- Speech Recognition and Synthesis API(whisper)
 - Vision Language Touch Multimodal LLM
+- 3d world model LLM
+- EHR API
+- Diagnostic AI API
+- Image Processing API
+- Patient Monitoring API
+- Video Conferencing API
+- Motor Control API
+- Sensor API
+- Battery Management API
+- Camera API
+- Teleoperation API
+## User Interface APIs
+- Control Interface API
+Graphical user interface for doctors to interact with the robotic system.
+Touchscreen and voice command support.
+- Feedback and Haptic API
+Provide tactile feedback to the user.
+Real-time haptic feedback during procedures.
+
+## Safety and Compliance APIs
+- Emergency Stop API
+Interface to immediately halt all operations.
+Safety protocols and fail-safes.
+- Compliance API
+Ensure operations meet medical standards and regulations.
+Audit logging and reporting.
 
 # Softwares needed
 
