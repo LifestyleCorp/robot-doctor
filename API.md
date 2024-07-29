@@ -1,6 +1,7 @@
-# API needed
+# API Documentation for the Humanoid Robot Doctor (HRD)
 APIs Needed for Building the Robotic Humanoid Doctor
 Building a robotic humanoid doctor involves integrating various hardware components and software systems to perform complex medical tasks. 
+It includes information on usage, endpoints, parameters, and examples to ensure seamless integration and interaction with the HRD.
 Here is a comprehensive list of APIs needed for different functionalities:
 
 ## 1. Hardware Control APIs
@@ -135,6 +136,369 @@ teleop.move_hand(position="grasp")
 teleop.disconnect()
 ```
 
+---
+
+---
+
+### 9. **API Endpoints**
+
+#### 9.1 Sensor Data API
+
+**Endpoint:** `/api/sensors/data`
+
+**Description:** Retrieves real-time data from the HRD's sensors.
+
+**Methods:** `GET`
+
+**Parameters:**
+- `sensorType` (optional): Specifies the type of sensor data to retrieve (e.g., `pressure`, `force`, `tactile`, `visual`).
+- `timestamp` (optional): Retrieves sensor data starting from a specific timestamp.
+
+**Response:**
+- `status`: HTTP status code.
+- `data`: Array of sensor data objects.
+
+**Example Request:**
+```http
+GET /api/sensors/data?sensorType=pressure&timestamp=1622470423
+```
+
+**Example Response:**
+```json
+{
+  "status": 200,
+  "data": [
+    {
+      "sensorType": "pressure",
+      "timestamp": 1622470423,
+      "value": 15.6
+    },
+    {
+      "sensorType": "pressure",
+      "timestamp": 1622470483,
+      "value": 16.1
+    }
+  ]
+}
+```
+
+#### 9.2 Actuator Control API
+
+**Endpoint:** `/api/actuators/control`
+
+**Description:** Sends control commands to the HRD's actuators.
+
+**Methods:** `POST`
+
+**Parameters:**
+- `actuatorId` (required): The ID of the actuator to control.
+- `command` (required): The control command to send (e.g., `move`, `stop`).
+- `parameters` (optional): Additional parameters for the command (e.g., `angle`, `speed`).
+
+**Request Body:**
+```json
+{
+  "actuatorId": "servo_1",
+  "command": "move",
+  "parameters": {
+    "angle": 90,
+    "speed": 10
+  }
+}
+```
+
+**Response:**
+- `status`: HTTP status code.
+- `message`: Confirmation message.
+
+**Example Request:**
+```http
+POST /api/actuators/control
+Content-Type: application/json
+
+{
+  "actuatorId": "servo_1",
+  "command": "move",
+  "parameters": {
+    "angle": 90,
+    "speed": 10
+  }
+}
+```
+
+**Example Response:**
+```json
+{
+  "status": 200,
+  "message": "Actuator command executed successfully."
+}
+```
+
+#### 9.3 Diagnostics API
+
+**Endpoint:** `/api/diagnostics/analyze`
+
+**Description:** Analyzes sensor data and provides diagnostic suggestions.
+
+**Methods:** `POST`
+
+**Parameters:**
+- `data` (required): Array of sensor data objects to analyze.
+
+**Request Body:**
+```json
+{
+  "data": [
+    {
+      "sensorType": "pressure",
+      "timestamp": 1622470423,
+      "value": 15.6
+    },
+    {
+      "sensorType": "force",
+      "timestamp": 1622470483,
+      "value": 10.2
+    }
+  ]
+}
+```
+
+**Response:**
+- `status`: HTTP status code.
+- `diagnostics`: Array of diagnostic suggestions.
+
+**Example Request:**
+```http
+POST /api/diagnostics/analyze
+Content-Type: application/json
+
+{
+  "data": [
+    {
+      "sensorType": "pressure",
+      "timestamp": 1622470423,
+      "value": 15.6
+    },
+    {
+      "sensorType": "force",
+      "timestamp": 1622470483,
+      "value": 10.2
+    }
+  ]
+}
+```
+
+**Example Response:**
+```json
+{
+  "status": 200,
+  "diagnostics": [
+    {
+      "suggestion": "Possible high blood pressure detected.",
+      "confidence": 0.85
+    },
+    {
+      "suggestion": "Normal force exertion.",
+      "confidence": 0.90
+    }
+  ]
+}
+```
+
+#### 9.4 User Interface API
+
+**Endpoint:** `/api/ui/update`
+
+**Description:** Updates the user interface with new data or commands.
+
+**Methods:** `POST`
+
+**Parameters:**
+- `uiElement` (required): The UI element to update (e.g., `chart`, `status`).
+- `data` (required): The data to update the UI element with.
+
+**Request Body:**
+```json
+{
+  "uiElement": "chart",
+  "data": {
+    "sensorType": "pressure",
+    "values": [15.6, 16.1, 15.8]
+  }
+}
+```
+
+**Response:**
+- `status`: HTTP status code.
+- `message`: Confirmation message.
+
+**Example Request:**
+```http
+POST /api/ui/update
+Content-Type: application/json
+
+{
+  "uiElement": "chart",
+  "data": {
+    "sensorType": "pressure",
+    "values": [15.6, 16.1, 15.8]
+  }
+}
+```
+
+**Example Response:**
+```json
+{
+  "status": 200,
+  "message": "UI updated successfully."
+}
+```
+
+#### 9.5 Electronic Health Records (EHR) API
+
+**Endpoint:** `/api/ehr/access`
+
+**Description:** Accesses the patient's electronic health records.
+
+**Methods:** `GET`
+
+**Parameters:**
+- `patientId` (required): The ID of the patient whose records are to be accessed.
+- `recordType` (optional): Specifies the type of record to retrieve (e.g., `history`, `testResults`).
+
+**Response:**
+- `status`: HTTP status code.
+- `records`: Array of EHR records.
+
+**Example Request:**
+```http
+GET /api/ehr/access?patientId=12345&recordType=history
+```
+
+**Example Response:**
+```json
+{
+  "status": 200,
+  "records": [
+    {
+      "recordType": "history",
+      "timestamp": 1622470423,
+      "details": "Patient history details here..."
+    },
+    {
+      "recordType": "testResults",
+      "timestamp": 1622470483,
+      "details": "Test results details here..."
+    }
+  ]
+}
+```
+
+---
+
+### 10. **Error Handling**
+
+All APIs return standard HTTP status codes to indicate the result of the request. The following are common status codes and their meanings:
+
+- `200 OK`: The request was successful.
+- `400 Bad Request`: The request was invalid or cannot be served.
+- `401 Unauthorized`: Authentication is required and has failed or has not yet been provided.
+- `403 Forbidden`: The request is valid, but the server is refusing action.
+- `404 Not Found`: The requested resource could not be found.
+- `500 Internal Server Error`: An error occurred on the server.
+
+Example Error Response:
+```json
+{
+  "status": 400,
+  "error": "Invalid sensor type specified."
+}
+```
+
+---
+
+### 11. **Authentication**
+
+**Description:** Secure APIs to ensure only authorized users can access them.
+
+**Method:** Token-based authentication (e.g., JWT)
+
+**Steps:**
+1. Obtain a token by authenticating with the `/api/auth/login` endpoint.
+2. Include the token in the `Authorization` header of subsequent requests.
+
+**Example Request for Token:**
+```http
+POST /api/auth/login
+Content-Type: application/json
+
+{
+  "username": "doctor",
+  "password": "password123"
+}
+```
+
+**Example Response with Token:**
+```json
+{
+  "status": 200,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+}
+```
+
+**Including Token in Requests:**
+```http
+GET /api/sensors/data
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+```
+
+---
+
+### 12. **Examples of Common Use Cases**
+
+**Retrieving Sensor Data:**
+```http
+GET /api/sensors/data?sensorType=tactile&timestamp=1622470423
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+```
+
+**Sending Actuator Control Command:**
+```http
+POST /api/actuators/control
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+
+{
+  "actuatorId": "servo_1",
+  "command": "move",
+  "parameters": {
+    "angle": 90,
+    "speed": 10
+  }
+}
+```
+
+**Analyzing Sensor Data for Diagnostics:**
+```http
+POST /api/diagnostics/analyze
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+
+{
+  "data": [
+    {
+      "sensorType": "pressure",
+      "timestamp": 1622470423,
+     
+```
+
 # Conclusion
 Integrating these APIs will enable the robotic humanoid doctor to perform a wide range of medical tasks with precision, reliability, and real-time feedback. 
 The APIs facilitate communication between hardware components, AI systems, user interfaces, and medical data systems, ensuring seamless operation and high-quality patient care.
+
+### API Documentation for the Humanoid Robot Doctor (HRD)
+
+**Project Name:** Humanoid Robot Doctor (HRD)  
+**Project Owner:** [Your Name/Company]  
+**Date:** [Current Date]  
+**Version:** 1.0
