@@ -26,7 +26,19 @@ The firmware for the HRD is designed to manage the interactions between the hard
 
 #### **Architecture Diagram**
 
-![Firmware Architecture Diagram](https://dummyimage.com/600x400/000/fff&text=Firmware+Architecture+Diagram)
+![output (12)](https://github.com/user-attachments/assets/c650641a-f33e-455d-b375-130892749560)
+Here is the Firmware Architecture Diagram for the Humanoid Robot Doctor (HRD). This diagram visually represents the key modules and their interactions within the firmware, ensuring a clear understanding of the system's structure and data flow. 
+
+### Key Modules:
+1. **Initialization and Configuration**: Handles the initialization and configuration of hardware components during startup.
+2. **Sensor Data Acquisition**: Manages the real-time acquisition of data from various sensors.
+3. **Actuator Control**: Manages the control of actuators and motors based on commands received from the control software.
+4. **Communication Interfaces**: Handles all communication between the firmware and external systems.
+5. **Safety and Error Handling**: Ensures safe operation by monitoring system status and handling errors.
+6. **Firmware Updates**: Manages firmware updates to keep the system up-to-date with improvements and bug fixes.
+
+### Interactions:
+Arrows indicate the data flow and interaction between different modules. This helps in understanding how data is processed and managed within the firmware to ensure reliable and efficient operation of the HRD.
 
 ---
 
