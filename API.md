@@ -100,22 +100,27 @@ if pressure > threshold:
     alert("High pressure detected")
 
 ## EHR API Example:
-### Initialize EHR connection
+```python
+#Initialize EHR connection
 ehr = EHR_API(auth_token="your_auth_token")
-### Fetch patient data
+#Fetch patient data
 patient_data = ehr.get_patient_record(patient_id="12345")
-### Update patient record
+#Update patient record
 ehr.update_patient_record(patient_id="12345", data={"diagnosis": "Updated Diagnosis"})
+```
 
 ## Teleoperation API Example:
 ```python
-### Initialize teleoperation
+#initialize teleoperation
 teleop = TeleoperationControl()
-### Connect to remote robot
+
+#Connect to remote robot
 teleop.connect(remote_ip="192.168.1.100")
-### Send movement command
+
+#Send movement command
 teleop.move_hand(position="grasp")
-### Disconnect
+
+# Disconnect
 teleop.disconnect()
 ```
 
