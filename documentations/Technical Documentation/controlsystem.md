@@ -33,7 +33,8 @@ The control system architecture follows a modular design, allowing for easy main
 
 #### **Architecture Diagram**
 
-![output (12)](https://github.com/user-attachments/assets/8c7a1036-f1ea-4d0f-9e83-63e5a7606a1d)
+![output (14)](https://github.com/user-attachments/assets/21ee8fed-d4b6-429d-b8ef-02075714ea29)
+
 Here is the Control System Architecture Diagram for the Humanoid Robot Doctor (HRD). 
 This diagram visually represents the key modules and their interactions within the control system, ensuring a clear understanding of the system's structure and data flow.
 
