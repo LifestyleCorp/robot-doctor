@@ -125,28 +125,71 @@
 - Battery Management API
 - Camera API
 - Teleoperation API
-- 
-## User Interface APIs
-
 - Control Interface API
-Graphical user interface for doctors to interact with the robotic system.
-Touchscreen and voice command support.
 - Feedback and Haptic API
-Provide tactile feedback to the user.
-Real-time haptic feedback during procedures.
-
-## Safety and Compliance APIs
-
 - Emergency Stop API
-Interface to immediately halt all operations.
-Safety protocols and fail-safes.
 - Compliance API
-Ensure operations meet medical standards and regulations.
-Audit logging and reporting.
 
 # Softwares needed
 
+- Embedded Linux : For real-time control and integration of hardware components.
+- ROS (Robot Operating System): A flexible framework for writing robot software.
+- Visual Studio Code: For general coding and debugging.
+- Eclipse: For embedded systems programming.
+- PyCharm: For Python development.
+- Python: For AI, machine learning, and scripting.
+- C/C++: For low-level hardware control and performance-critical components.
+- JavaScript: For web interfaces and client-side scripting.
+- Java: For Android applications and some backend services.
+- TensorFlow: For training and deploying machine learning models.
+- PyTorch: For AI model development and research.
+- OpenCV: For image processing and computer vision tasks.
+- NLTK (Natural Language Toolkit): For natural language processing.
+- Gazebo: For robot simulation and testing.
+- MoveIt!: For motion planning and control.
+- Arduino IDE: For programming microcontrollers used in sensors and actuators.
+- MATLAB/Simulink: For control system design and simulation.
+- Qt: For developing cross-platform GUIs.
+- Electron: For building desktop applications using web technologies.
+- React Native: For building mobile applications.
+- Flutter: For building cross-platform mobile apps.
+- MQTT: For lightweight messaging and communication.
+- WebSockets: For real-time data transfer.
+- REST APIs: For backend services and integration.
+- SQLite: For local storage of data.
+- MySQL/PostgreSQL: For relational database management.
+- Firebase: For real-time database and authentication services.
+- MongoDB: For NoSQL database requirements
+- AWS (Amazon Web Services): For cloud computing, storage, and AI services.
+- Google Cloud Platform: For cloud-based AI and data analytics.
+- Microsoft Azure: For cloud infrastructure and services.
+- Git: For version control.
+- GitHub/GitLab/Bitbucket: For source code management and collaboration.
+- JIRA: For project management and issue tracking.
+- Slack: For team communication and collaboration.
+- Gazebo: For robot simulation and environment testing.
+- Ansys: For simulation of physical interactions and stress analysis.
+- MATLAB: For numerical analysis and system testing.
+- OpenSSL: For encryption and secure communications.
+- OWASP ZAP: For security testing of web applications.
+- HIPAA Compliance Software: For ensuring compliance with medical data regulations.
+- Sphinx: For generating project documentation.
+- Confluence: For collaborative documentation.
+- Swagger: For API documentation and testing.
+- Docker: For containerization and deployment.
+- Kubernetes: For container orchestration.
+- Ansible: For configuration management and automation.
+- Nagios: For monitoring system performance and health.
+
 # Installation Guide
+
+To install Project Title, follow these steps:
+
+1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
+2. Navigate to the project directory: **`cd project-title`**
+3. Install dependencies: **`npm install`**
+4. Build the project: **`npm run build`**
+5. Start the project: **`npm start`**
 
 # Steps to build robot doctor
 
@@ -225,7 +268,3 @@ If you have any questions or comments about Project Title, please contact :
 - **[Dr.Rahul Jaic Sam](https://github.com/rahuljaicsam)**
 - **Gmail: (rahuljaicsam@gmail.com)**
 - **Twitter : [@JaicSam](https://x.com/JaicSam)**
-
-## **Conclusion**
-
-That's it! This is a basic template for a proper README file for a general project. You can customize it to fit your needs, but make sure to include all the necessary information. A good README file can help users understand and use your project, and it can also help attract contributors.
