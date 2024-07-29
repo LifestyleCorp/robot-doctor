@@ -86,13 +86,6 @@
 - 4k cameras
 - web cameras
 
-# Data needed
-
-- text 
-- audio
-- video
-- image
-
 # Data Collected
 
 - glossary of medical terms, native medical slangs, equipment and procedures
