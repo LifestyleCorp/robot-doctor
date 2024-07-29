@@ -21,6 +21,15 @@ The HRD system architecture consists of several integrated subsystems, including
 
 ![output (8)](https://github.com/user-attachments/assets/fe9ef62e-82e8-4c78-aa4e-6bc854b74c44)
 
+Here is the High-Level Architecture Diagram for the Humanoid Robot Doctor (HRD). The diagram visualizes the integration of different subsystems, illustrating their relationships and data flow. 
+
+- **Mechanical Subsystem**: Provides the physical structure and support, enabling movement and manipulation.
+- **Electronic Subsystem**: Collects and processes sensor data, controls actuators, and manages power.
+- **Software Subsystem**: Executes control algorithms, manages hardware interactions, and provides user interfaces.
+- **AI and Machine Learning Subsystem**: Analyzes patient data, provides diagnostic support, and enhances system capabilities through continuous learning.
+- **Communication Subsystem**: Enables remote control and monitoring, ensuring secure data transfer.
+
+Arrows indicate the flow of data and control signals between these subsystems.
 
 ---
 
@@ -156,8 +165,37 @@ The HRD system architecture consists of several integrated subsystems, including
 
 #### **6.1 Data Flow Diagram**
 
-![output (9)](https://github.com/user-attachments/assets/ab37ff26-ac42-4017-98db-10b6e2675889)
+![output (10)](https://github.com/user-attachments/assets/37c22503-be00-4d1b-8748-e2aa5539d623)
 
+Here is the Detailed Data Flow Diagram for the Humanoid Robot Doctor (HRD). This diagram provides a comprehensive view of the data flow between various components and subsystems.
+
+### Components:
+- **Patient**: The source of medical data.
+- **Sensors**: Collect data from the patient (e.g., vital signs, physical characteristics).
+- **Microcontrollers**: Process raw sensor data and control actuators.
+- **Actuators**: Perform actions based on control signals (e.g., manipulating instruments).
+- **Control Software**: Manages the overall operation of the HRD, executing control algorithms and coordinating data flow.
+- **AI Models**: Analyze data, provide diagnostic support, and enhance system capabilities.
+- **User Interface**: Allows medical professionals to interact with the system, view data, and control the HRD.
+- **Electronic Health Records (EHR)**: Store and manage patient medical data.
+- **Medical Professionals**: Use the HRD for patient care, interact with the system through the user interface.
+
+### Data Flow:
+1. **Patient to Sensors**: Sensors collect data from the patient.
+2. **Sensors to Microcontrollers**: Sensor data is sent to microcontrollers for initial processing.
+3. **Microcontrollers to Control Software**: Processed data from microcontrollers is sent to the control software.
+4. **Control Software to AI Models**: The control software sends relevant data to AI models for analysis.
+5. **AI Models to User Interface**: Results from AI analysis are displayed on the user interface.
+6. **User Interface to Medical Professionals**: Medical professionals interact with the user interface to view data and control the HRD.
+7. **Medical Professionals to User Interface**: Commands and inputs from medical professionals are sent back to the user interface.
+8. **AI Models to EHR**: Analyzed data is stored in the electronic health records.
+9. **EHR to AI Models**: Historical data from EHR is used by AI models for further analysis.
+10. **Control Software to Actuators**: Control software sends commands to actuators to perform physical actions.
+11. **Sensors to AI Models**: Raw sensor data can be sent directly to AI models for real-time analysis.
+12. **Microcontrollers to Actuators**: Microcontrollers send direct control signals to actuators.
+13. **User Interface to AI Models**: User inputs can be used to refine AI models and improve diagnostics.
+
+This detailed data flow diagram ensures a clear understanding of how data moves through the system, facilitating effective design, implementation, and troubleshooting of the HRD.
 
 #### **6.2 Data Integration**
 
