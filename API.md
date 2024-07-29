@@ -81,30 +81,41 @@ Here is a comprehensive list of APIs needed for different functionalities:
 
 # API Examples
 ## Motor Control API Example:
-### Initialize motor control
+```python
+#Initialize motor control
 motor = MotorControl()
-### Move motor to a specific position
+
+#Move motor to a specific position
 motor.move_to(position=90)
-### Set motor speed
+
+#Set motor speed
 motor.set_speed(speed=50)
-### Stop motor
+
+#Stop motor
 motor.stop()
+```
 
 ## Sensor API Example:
-### Initialize sensor
+```python
+#Initialize sensor
 pressure_sensor = PressureSensor()
-### Read sensor data
+
+#Read sensor data
 pressure = pressure_sensor.read()
-### Process data
+
+#Process data
 if pressure > threshold:
     alert("High pressure detected")
+```
 
 ## EHR API Example:
 ```python
 #Initialize EHR connection
 ehr = EHR_API(auth_token="your_auth_token")
+
 #Fetch patient data
 patient_data = ehr.get_patient_record(patient_id="12345")
+
 #Update patient record
 ehr.update_patient_record(patient_id="12345", data={"diagnosis": "Updated Diagnosis"})
 ```
