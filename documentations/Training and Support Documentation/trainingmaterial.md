@@ -142,19 +142,71 @@ To provide a structured training schedule ensuring all users receive adequate tr
 
 ---
 
-### 6. Feedback and Evaluation
+# 6. Feedback and Evaluation
 
 **Objective:**  
 To gather feedback from trainees to evaluate the effectiveness of the training program and make necessary improvements.
 
 **Methods:**
-- Post-training surveys
-- Feedback forms
-- Follow-up interviews
-- Training effectiveness assessments
 
-**Responsible Person:**  
-Training Manager
+#### 6.1 Post-Training Surveys
+**Objective:** To collect immediate feedback after training sessions.
+**Procedure:**
+- Distribute surveys at the end of each training session.
+- Include questions on content clarity, training effectiveness, and trainer performance.
+- Collect and analyze responses to identify areas for improvement.
+
+**Template:**
+| Question                                                | Rating (1-5) | Comments                        |
+|---------------------------------------------------------|--------------|---------------------------------|
+| How clear was the training content?                     | [ ]          | [ ]                             |
+| How effective was the training in preparing you to use the HRD? | [ ]          | [ ]                             |
+| How would you rate the trainer's delivery and knowledge? | [ ]          | [ ]                             |
+| What aspects of the training did you find most useful?  | [ ]          | [ ]                             |
+| What could be improved in future training sessions?     | [ ]          | [ ]                             |
+
+#### 6.2 Feedback Forms
+**Objective:** To collect detailed feedback on specific training aspects.
+**Procedure:**
+- Provide feedback forms after hands-on training and Q&A sessions.
+- Ask for detailed suggestions and comments on training materials and methods.
+- Analyze feedback to make specific improvements to training content and delivery.
+
+**Template:**
+| Aspect of Training                  | Feedback/Suggestions                                  |
+|-------------------------------------|-------------------------------------------------------|
+| Training Content                    | [Detailed feedback]                                   |
+| Training Methods                    | [Detailed feedback]                                   |
+| Training Materials (Manuals/Videos) | [Detailed feedback]                                   |
+| Hands-On Training                   | [Detailed feedback]                                   |
+| Overall Training Experience         | [Detailed feedback]                                   |
+
+#### 6.3 Follow-Up Interviews
+**Objective:** To gather in-depth feedback and insights from users.
+**Procedure:**
+- Conduct follow-up interviews with a representative sample of trainees.
+- Ask open-ended questions about their training experience and any challenges faced.
+- Use insights to refine training materials and approaches.
+
+**Questions:**
+1. How confident do you feel in using the HRD after the training?
+2. Were there any aspects of the training that were unclear or difficult to understand?
+3. How can we improve the training program to better meet your needs?
+4. Have you encountered any issues while using the HRD that were not covered in the training?
+5. What additional resources or support would help you in using the HRD?
+
+#### 6.4 Training Effectiveness Assessments
+**Objective:** To measure the impact of training on user performance.
+**Procedure:**
+- Conduct assessments (quizzes, practical tests) to evaluate trainees' understanding and skills.
+- Compare pre-training and post-training performance to measure improvement.
+- Use assessment results to identify knowledge gaps and areas for further training.
+
+**Template:**
+| Trainee Name       | Pre-Training Score | Post-Training Score | Improvement (%) | Comments                    |
+|--------------------|--------------------|---------------------|-----------------|-----------------------------|
+| [Trainee Name]     | [Score]            | [Score]             | [Improvement]   | [Comments]                  |
+
 
 ---
 
@@ -171,3 +223,8 @@ This Training Materials document provides comprehensive resources for training u
 ---
 
 This document outlines the training materials, including presentations, videos, and manuals, to ensure users of the HRD are well-trained and capable of using the system efficiently and safely.
+
+
+
+---
+
