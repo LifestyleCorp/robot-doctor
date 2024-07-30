@@ -162,6 +162,25 @@ FTA is a top-down, deductive analytical method used to determine the various com
 **Usage:**  
 Ideal for complex systems where multiple interrelated factors contribute to a failure.
 
+![Fault Tree Analysis (FTA) Diagram for HRD Project](https://github.com/user-attachments/assets/d7b7da20-2a47-4300-bb60-9db3da709ed5)
+
+Here is the Fault Tree Analysis (FTA) diagram for the Humanoid Robot Doctor (HRD) project. The diagram visually represents the potential causes leading to a system failure. Each node represents a specific failure mode, and the directed edges show the causal relationships between these failures.
+
+### Key Points:
+
+1. **System Failure**: The top event that we aim to prevent.
+2. **Primary Causes**: 
+   - Power Supply Failure
+   - Overheating
+   - Software Crash
+   - Hardware Failure
+3. **Secondary Causes**:
+   - Battery Depletion
+   - Power Outage (leading to Power Supply Failure)
+   - Cooling Fan Failure (leading to Overheating)
+
+This FTA diagram helps in identifying and understanding the relationships between different failure modes, allowing for targeted corrective actions to prevent the top event (System Failure).
+
 ---
 
 ### 7. Conclusion
