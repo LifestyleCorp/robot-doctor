@@ -174,6 +174,20 @@ The testing process has validated the HRD’s functionality, performance, and ad
 
 ---
 
+#### Example performance charts
+![output (15)](https://github.com/user-attachments/assets/6f9b3dee-f06d-46f9-b535-d9415df5c596)
+
+Here are the performance graphs generated from the test data:
+
+1. **HRD Response Time Under Load:**
+   - This graph shows the response time of the Humanoid Robot Doctor (HRD) under varying numbers of simultaneous users. As the number of users increases, the response time also increases, with a notable rise beyond 70 users.
+
+2. **HRD System Throughput:**
+   - This graph illustrates the system throughput of the HRD, measured as the number of requests processed per second. The throughput decreases slightly as the number of requests increases, maintaining above 45 requests per second even at the highest load tested.
+
+These graphs provide a clear visualization of the HRD’s performance under different conditions, supporting the findings and recommendations from the test reports.
+---
+
 **Signatures:**
 
 **Project Owner:** ______________________  
