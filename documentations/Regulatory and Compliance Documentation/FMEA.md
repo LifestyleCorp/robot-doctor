@@ -159,3 +159,113 @@ This detailed FMEA provides a comprehensive analysis of potential failure modes 
 ---
 
 This detailed FMEA table outlines the potential failure modes, their causes, effects, and recommended actions, providing a structured approach to risk management for the HRD project.
+
+---
+
+### Common FMEA Failure Modes
+
+**Project Name:** Humanoid Robot Doctor (HRD)  
+**Document Title:** Common FMEA Failure Modes  
+**Version:** 1.0  
+**Date:** [Insert Date]  
+**Prepared by:** [Your Name/Title]  
+**Reviewed by:** [Reviewer’s Name/Title]  
+**Approved by:** [Approver’s Name/Title]
+
+---
+
+### 1. Introduction
+
+**Objective:**  
+The objective of this document is to list common failure modes encountered in Failure Mode and Effects Analysis (FMEA). Understanding these common failure modes helps in identifying potential issues in the Humanoid Robot Doctor (HRD) project and other similar projects.
+
+**Scope:**  
+This document covers common failure modes across various components and processes, including software, hardware, training, data handling, power supply, sensors, network, data security, user interface, maintenance, and compliance.
+
+---
+
+### 2. Common FMEA Failure Modes
+
+#### 2.1 Software
+
+- **Crashes:** Unexpected termination of software applications.
+- **Bugs:** Errors or flaws in software code leading to incorrect behavior.
+- **Memory Leaks:** Software consumes increasing amounts of memory without releasing it.
+- **Compatibility Issues:** Software does not function correctly on all intended platforms.
+
+#### 2.2 Hardware
+
+- **Overheating:** Excessive heat causing malfunction or damage.
+- **Component Failure:** Breakdown of mechanical or electronic parts.
+- **Wear and Tear:** Degradation over time due to usage.
+- **Electrical Shorts:** Unintended electrical connections causing failures.
+
+#### 2.3 Training
+
+- **Insufficient Training:** Lack of adequate training for users.
+- **Incorrect Procedures:** Users following incorrect operational procedures.
+- **Inadequate Documentation:** Poor or missing user manuals and training materials.
+
+#### 2.4 Data Handling
+
+- **Data Corruption:** Errors in data storage or transmission leading to incorrect data.
+- **Data Loss:** Loss of data due to accidental deletion, hardware failure, or software errors.
+- **Data Breach:** Unauthorized access to sensitive data.
+
+#### 2.5 Power Supply
+
+- **Power Outage:** Loss of power supply causing system shutdown.
+- **Voltage Fluctuations:** Variations in power supply voltage causing malfunctions.
+- **Battery Failure:** Depletion or failure of backup batteries.
+
+#### 2.6 Sensors
+
+- **Malfunction:** Failure of sensors to function correctly.
+- **Calibration Drift:** Gradual deviation of sensor readings from the true values.
+- **Signal Interference:** External factors causing incorrect sensor readings.
+
+#### 2.7 Network
+
+- **Connection Loss:** Loss of network connectivity.
+- **Bandwidth Limitations:** Insufficient network capacity leading to slow performance.
+- **Security Vulnerabilities:** Weaknesses in network security allowing unauthorized access.
+
+#### 2.8 Data Security
+
+- **Weak Encryption:** Inadequate encryption methods leading to data vulnerability.
+- **Access Control Issues:** Unauthorized access to data due to poor access control mechanisms.
+- **Security Breaches:** Successful attacks compromising data integrity and confidentiality.
+
+#### 2.9 User Interface
+
+- **Unresponsive Interface:** Slow or non-responsive user interface.
+- **User Confusion:** Poorly designed interface causing user errors.
+- **Compatibility Issues:** Interface not working correctly on all devices.
+
+#### 2.10 Maintenance
+
+- **Inadequate Maintenance:** Lack of regular maintenance leading to increased failures.
+- **Poor Record Keeping:** Incomplete or inaccurate maintenance records.
+- **Delayed Repairs:** Slow response to identified maintenance needs.
+
+#### 2.11 Compliance
+
+- **Regulatory Non-Compliance:** Failure to adhere to relevant regulations and standards.
+- **Documentation Gaps:** Missing or incomplete compliance documentation.
+- **Audit Failures:** Poor performance in regulatory or internal audits.
+
+---
+
+### 3. Conclusion
+
+Understanding these common FMEA failure modes helps in proactively identifying and addressing potential issues within the HRD project. By focusing on these common failure modes, the project team can implement effective corrective actions to mitigate risks and ensure project success.
+
+**Signatures:**
+
+**Project Manager:** ______________________  
+**Quality Assurance Manager:** ______________________  
+**Date:** ______________________  
+
+---
+
+This document provides a comprehensive list of common FMEA failure modes, serving as a valuable reference for identifying and addressing potential issues in the HRD project and similar initiatives.
