@@ -74,6 +74,9 @@ The Fishbone Diagram, also known as the Ishikawa Diagram or Cause-and-Effect Dia
 **Usage:**  
 Ideal for complex problems where multiple potential causes need to be explored.
 
+![output (16)](https://github.com/user-attachments/assets/cfada33f-f1ea-4f76-b07d-59df4da2d9be)
+Here's the fishbone diagram for the Humanoid Robot Doctor (HRD) project. It visually maps out the potential causes of problems in six categories: People, Processes, Equipment, Materials, Environment, and Management. Each category lists specific potential causes that contribute to issues within the project. This tool helps in systematically identifying and addressing the root causes to ensure effective resolution and continuous improvement.
+
 ---
 
 ### 4. Pareto Analysis
@@ -94,6 +97,18 @@ Pareto Analysis uses the 80/20 rule to identify the most significant factors con
 
 **Usage:**  
 Best for identifying and prioritizing the most critical issues to address for maximum impact.
+
+### Key Points:
+
+1. **Causes**: The x-axis lists the different causes of issues.
+2. **Frequency**: The left y-axis and blue bars show the frequency of each cause.
+3. **Cumulative Percentage**: The right y-axis and orange line show the cumulative percentage of the total occurrences.
+
+The chart illustrates that the majority of issues are caused by a few significant factors, highlighting areas to prioritize for corrective actions. For instance, addressing software bugs and hardware failures could significantly reduce the overall number of issues, as these two causes contribute to a large portion of the problems.
+
+![output (17)](https://github.com/user-attachments/assets/d09c61e2-f702-4e8a-b5bd-fcc58ac74d4d)
+Here's the Pareto chart for the Humanoid Robot Doctor (HRD) project issues. 
+This chart visually represents the frequency of different causes of issues and their cumulative impact. 
 
 ---
 
