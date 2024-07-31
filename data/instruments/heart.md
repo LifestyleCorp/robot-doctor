@@ -311,9 +311,6 @@ To provide additional instruments used in various other heart-related specialtie
 5. **Heart Failure Management Systems:** Comprehensive monitoring systems for managing chronic heart failure.
 6. **Cardiac Rehabilitation Software:** Programs designed to guide and monitor patients' rehabilitation progress.
 7. **Implantable Loop Recorders:** Devices implanted under the skin to continuously monitor heart rhythms for an extended period.
-
-
-**Instruments:**
 1. **Electrophysiology Catheters:** Used to diagnose and treat heart rhythm disorders.
 2. **Cardiac Ablation Devices:** Used to treat abnormal heart rhythms.
 3. **Pacemakers:** Devices implanted to regulate heartbeats.
