@@ -12,13 +12,6 @@
 ## Heart Lung Machine
 ## Scalpels (10 blade, 11 blade, 15 blade)
 
-## Clamps
-### Vascular clamps
-### Non-vascular clamps
-### Aortic Cross clamp
-### Mosquito clamp (for small vessels)
-### General clamps
-
 ## Sutures
 ### 4-0 Prolene monofilament permenant Sutures (for aorta and on vessels)
 ### 7-0 Prolene (very tiny fine filaments)
@@ -149,6 +142,13 @@ To list the instruments used in cardiothoracic surgery for performing open-heart
     - Aortic Cross clamp
     - Mosquito clamp (for small vessels)
     - General clamps
+10. **Morris Sternal Retractor:**
+11. **Electrocautery bovie:**
+12. **Cannulas:**
+13. **Scalpels:** 
+    - 10 blade
+    - 11 blade
+    - 15 blade
 
 ---
 
