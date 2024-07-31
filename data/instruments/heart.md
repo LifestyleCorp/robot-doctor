@@ -1,55 +1,4 @@
-# Every Major Tool a heart surgeon uses
-
-## Visualisation Tools
-### Surgical Loupes (3.5 x maginfication)
-### Surgical Headlamp
-### 3D glasses
-
-## Sternal Saw
-## Morris Sternal Retractor
-## Electrocautery bovie
-## Cannulas
-## Heart Lung Machine
-## Scalpels (10 blade, 11 blade, 15 blade)
-
-## Sutures
-### 4-0 Prolene monofilament permenant Sutures (for aorta and on vessels)
-### 7-0 Prolene (very tiny fine filaments)
-### Stainless Steel wire with sharp heavy needle (to twist and reapproximate breastbone)
-
-## Bypass instruments
-### Micro Potts Scissors (for opening coronary artery)
-### Mammary Pickups (forceps to handle coronary vessels)
-
-## Robot Room
-### Surgical Robot 4 armed (9x magnification)
-### Casters (opening , closing and rotation of instruments)
-### Pedals (manipulate left and right arm to move camera closer and further in 3d space)
-
-## Keyhole Heart Valve Surgery
-### Left Atrial Retractor
-### Flexible Vascular Clamp (placed on the aorta)
-### Chopstick like surgical instrument (for keyholes)
-
-## Minimal Invasive Bypass Surgery
-### Surgical Fixators
-### Wound Openers to access the heart (various sizes adaptable to each body, size or weight)
-### Automatic Knot Fastener (tie the knot thrugh small incision)
-
-## Keyhole tool to view the heart
-### Miniature video camera system(endoscopic) to guide heart surgeries
-
-# CARDIAC IMPLANTABLE ELECTRONIC DEVICES
-
-## Pacemakers (generator with pacing leads threaded through veins to the heart)
-### Single Chamber pacemaker
-### Dual Chamber pacemaker (R. Atrium and R.Ventricle)
-### Biventricular pacemakers (R.Atrum , L. and R.Ventricle) or CRT pacemaker
-
-##  
-
-
-### Comprehensive List of Instruments Used in Heart Procedures
+# Comprehensive List of Instruments Used in Heart Procedures
 
 **Project Name:** Humanoid Robot Doctor (HRD)  
 **Document Title:** Instruments Used in Heart Procedures  
@@ -136,7 +85,7 @@ To list the instruments used in cardiothoracic surgery for performing open-heart
 6. **Aortic Punch:** Used to create openings in the aorta for graft attachment.
 7. **Hemostatic Clamps:** Used to control bleeding by clamping blood vessels.
 8. **Forceps:** Used for grasping and manipulating tissues.
-9. **Clamps:**
+9. **Other Clamps:**
     - Vascular clamps
     - Non-vascular clamps
     - Aortic Cross clamp
@@ -149,6 +98,31 @@ To list the instruments used in cardiothoracic surgery for performing open-heart
     - 10 blade
     - 11 blade
     - 15 blade
+14. **Visualisation Tools:**
+    - Surgical Loupes (3.5 x maginfication)
+    - Surgical Headlamp
+    - 3D glasses
+15. **Sutures:**
+    - 4-0 Prolene monofilament permenant Sutures (for aorta and on vessels)
+    - 7-0 Prolene (very tiny fine filaments)
+    - Stainless Steel wire with sharp heavy needle (to twist and reapproximate breastbone)
+16. **Bypass instruments:**
+    - Micro Potts Scissors (for opening coronary artery)
+    - Mammary Pickups (forceps to handle coronary vessels)
+17. **Robot Room:**
+    - Surgical Robot 4 armed (9x magnification)
+    - Casters (opening , closing and rotation of instruments)
+    - Pedals (manipulate left and right arm to move camera closer and further in 3d space)
+18. **Keyhole Heart Valve Surgery:**
+    - Left Atrial Retractor
+    - Flexible Vascular Clamp (placed on the aorta)
+    - Chopstick like surgical instrument (for keyholes)
+19. **Minimal Invasive Bypass Surgery:**
+    - Surgical Fixators
+    - Wound Openers to access the heart (various sizes adaptable to each body, size or weight)
+    - Automatic Knot Fastener (tie the knot thrugh small incision)
+20. **Keyhole tool to view the heart:**
+    - Miniature video camera system(endoscopic) to guide heart surgeries
 
 ---
 
@@ -236,8 +210,11 @@ To list the instruments used in heart failure management for monitoring and supp
 6. **Blood Pressure Monitors:** Regularly used to track blood pressure in heart failure patients.
 7. **Weight Scales:** Used to monitor daily weight changes, indicating fluid retention.
 8. **Echocardiography Machines:** Used to assess heart function and structure.
-9. **Biventricular Pacemakers:** Pacemakers that stimulate both ventricles to improve heart function.
 10. **Wearable Cardioverter-Defibrillators:** External devices worn by patients at risk of sudden cardiac arrest.
+11. **CARDIAC IMPLANTABLE pacemakerELECTRONIC DEVICES:** Pacemakers are generator with pacing leads threaded through veins to the heart
+    - Single Chamber pacemaker
+    - Dual Chamber pacemaker (R. Atrium and R.Ventricle)
+    - Biventricular pacemakers (R.Atrum , L. and R.Ventricle) or CRT pacemaker : Pacemakers that stimulate both ventricles to improve heart function.
 
 ---
 
