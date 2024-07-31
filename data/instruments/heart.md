@@ -143,6 +143,12 @@ To list the instruments used in cardiothoracic surgery for performing open-heart
 6. **Aortic Punch:** Used to create openings in the aorta for graft attachment.
 7. **Hemostatic Clamps:** Used to control bleeding by clamping blood vessels.
 8. **Forceps:** Used for grasping and manipulating tissues.
+9. **Clamps:**
+    - Vascular clamps
+    - Non-vascular clamps
+    - Aortic Cross clamp
+    - Mosquito clamp (for small vessels)
+    - General clamps
 
 ---
 
