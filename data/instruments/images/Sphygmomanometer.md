@@ -32,4 +32,11 @@
 - https://patents.google.com/patent/US4413631A/en
 - https://patents.google.com/patent/US4942879A/en
 - https://patents.google.com/patent/US20070006643A1/en
-- 
+- https://patents.google.com/patent/JP4231030B2/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/JP4704361B2/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/RU2750745C1/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/US20210030372A1/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/US10765326B2/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/US9622710B2/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/US8016765B2/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/US20110066043A1/en?q=(sphygmomanometer)&oq=sphygmomanometer
