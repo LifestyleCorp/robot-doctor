@@ -11,6 +11,18 @@
 ![800px-Korotkow_English](https://github.com/user-attachments/assets/fc3d9318-7704-42f4-8840-04aefaea48a5)
 
 
+# videos
+https://www.youtube.com/watch?v=XhUueo50t2U
+https://www.youtube.com/watch?v=-CSwn0Jz_G4
+https://www.youtube.com/watch?v=gyIXlGkJ_ps
+https://www.youtube.com/watch?v=Y-NvovSaWTc
+https://www.youtube.com/watch?v=TG0NcqKeRWE
+https://www.youtube.com/watch?v=wgMETz-gDik
+https://www.youtube.com/watch?v=8-dEvfMvQc0
+https://www.youtube.com/watch?v=pI7heG6jZ1Y
+https://www.youtube.com/watch?v=TNyhJiW3K4I
+https://www.youtube.com/watch?v=yroSIVYYezw
+https://www.youtube.com/watch?v=7oKNewTSF7M
 
 # REFERENCES
 - https://en.wikipedia.org/wiki/Sphygmomanometer
@@ -40,3 +52,4 @@
 - https://patents.google.com/patent/US9622710B2/en?q=(sphygmomanometer)&oq=sphygmomanometer
 - https://patents.google.com/patent/US8016765B2/en?q=(sphygmomanometer)&oq=sphygmomanometer
 - https://patents.google.com/patent/US20110066043A1/en?q=(sphygmomanometer)&oq=sphygmomanometer
+- https://patents.google.com/patent/US20240206746A1/en?q=(Sphygmomanometer)&oq=Sphygmomanometer&sort=new&page=2
