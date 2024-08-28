@@ -73,7 +73,7 @@
 
 # Materials
 
-- Digital Pinki Version 2
+- Digital Pinki Version 2 https://shanluo.github.io/ViTacWorkshops/content/ViTac2024_Paper_04.pdf  https://arxiv.org/abs/2403.05500v2
 - Opensource visuo tactile sensor models
 - Opensource Dex hands
 - Opensource Humanoid Arm Assembly
