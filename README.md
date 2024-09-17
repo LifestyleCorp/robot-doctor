@@ -1,5 +1,8 @@
 # ROBOT-DOCTOR : BAYMAX
 
+![1fe32616-a916-4504-b637-644867d7655e](https://github.com/user-attachments/assets/e8f25e03-72ec-4525-be40-59af384deb66)
+
+
 - End to End complete biomedical device for general medical purpose
 - Advanced mulitmodal embeddable AI inside a visuo-tactile-sensor robot hands
 - The device is teleoperable and end to end autonomous for biomedical clinical purposes
