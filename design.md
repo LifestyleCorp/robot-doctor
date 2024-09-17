@@ -1,4 +1,4 @@
-Certainly! Here are prompts to help your designers and engineers create detailed pencil sketches of each component of the humanoid robot doctor. These prompts focus on the industrial design and functional aspects necessary for product development.
+Here are prompt information to help your designers and engineers create detailed pencil sketches of each component of the humanoid robot doctor. These prompts focus on the industrial design and functional aspects necessary for product development.
 
 ---
 
