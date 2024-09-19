@@ -1,0 +1,3 @@
+# BAY AREA ROBOTICS SYMPOSIUM 2021
+
+https://youtu.be/KxBOxH4CFc8
