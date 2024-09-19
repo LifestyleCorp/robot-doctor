@@ -27,3 +27,7 @@ https://www.youtube.com/watch?v=A6rRCVtB2sM
 # RSS 2022 Conference Day 3
 
 https://www.youtube.com/watch?v=V17vQSZP5Zs
+
+# IFDS playlist
+
+https://youtube.com/playlist?list=PLTPQEx-31JXjFCL_rRIJP2C4Qmg7Pd0dE&si=DOUgn5TbQq89uZ0y
