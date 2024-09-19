@@ -1,0 +1,3 @@
+# BAY AREA ROBOTICS SYMPOSIUM 2020
+
+https://youtu.be/MsROcNm4qgs
