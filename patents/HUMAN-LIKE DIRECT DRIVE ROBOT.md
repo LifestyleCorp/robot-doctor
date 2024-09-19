@@ -1,3 +1,6 @@
+
+# HUMAN-LIKE DIRECT DRIVE ROBOT
+
 @1x_tech
 ' US20200083763A1 patent introduces an innovative motor and actuation system design for enabling direct drive control of human-like robots.
 
@@ -11,19 +14,19 @@ This patent provides hints at the operating principles of the robots they are de
 ![alt text](GWXEr4RWEAI_atI.jpeg)
 
 
-1. Core Innovation:
+# 1. Core Innovation:
 ✅ Compact, lightweight, high-torque motor design using a Halbach array magnet structure
 ✅ Direct drive control with low gear ratios (ideally 1:1 to 1:5) for improved backdriveability and safety
 ✅ Cable-driven joint actuation for reduced backlash and improved control
 
-2. Key Components:
+# 2. Key Components:
 1️⃣ Rotor with Halbach array magnet structure
 2️⃣ Stator with optimized pole design 
 3️⃣ Synthetic fiber cable drive system
 4️⃣ Differentials for multi-axis joint control
 5️⃣ Optimized motor placement in robot structure
 
-3. Key Technical Features:
+# 3. Key Technical Features:
 1️⃣ Magnet thickness optimized to prevent demagnetization at peak torque/temperature
 2️⃣ Prime number of rotor pole pairs to reduce cogging torque
 3️⃣ Stator design balancing magnetic field strength and weight
@@ -40,7 +43,7 @@ FIG. 1A and 1B show the detailed design of the compact, high-torque motor at the
 
 FIG. 2A and 2B illustrate the cross-section of a stator tooth and its possible range of dimensions, crucial for optimal balance between magnetic field strength and weight.
 
-4. Operational Mechanism:
+# 4. Operational Mechanism:
 1️⃣ High-torque motors drive joints via cable systems
 2️⃣ Direct connection between motors and joints (no intermediate shafts)
 3️⃣ Differentials enable multi-axis joint control (e.g. elbow bend and twist)
@@ -55,7 +58,7 @@ FIG. 4 shows the innovative cable routing system that maintains tension during j
 
 FIG. 5 illustrates examples of termination housing for the cables in the drive system, crucial for maintaining cable tension.
 
-5. Key Advantages:
+# 5. Key Advantages:
 ✅ Improved backdriveability for safer human-robot interaction
 ✅ Reduced need for complex sensor systems
 ✅ More accurate position/force control due to reduced backlash and friction
@@ -73,7 +76,7 @@ This technology represents a significant advancement in creating robots that can
 
 ![alt text](GWXGbGbbQAEyKxb.png)
 
-Bibliography
+# Bibliography
 
 #️⃣ Patent No.: US20200083763A1
 📋 Title: Human-like direct drive robot
