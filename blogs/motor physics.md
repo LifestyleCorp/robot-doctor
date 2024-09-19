@@ -6,8 +6,6 @@
 
 [![YouTube Video]](https://www.youtube.com/watch?v=bUrLuUxv9gE&pp=ygVIeXQxcy5jb20gLSBJbnRyb2R1Y2luZyBORU8gQmV0YSAgQSBIdW1hbm9pZCBSb2JvdCBmb3IgdGhlIEhvbWVfMTA4MHAubXA0)
 
-<video controls src="yt1s.com - Introducing NEO Beta  A Humanoid Robot for the Home_1080p.mp4" title="Title"></video>
-
 You may notice that despite its agility, NEO moves quietly. If you turn up the volume on the video, you can hear the gentle whirring of motors as it leans down and picks up the backpack. Industrial robots can move fast, but need to be slowed to a crawl before they touch anything and also need to be kept in safety cages. Meanwhile, NEO can gently make contact with the person in the video. How is this possible?
 
 This blog post is a tutorial on motor inertia and the non-intuitive dynamics of geared actuators. Despite programming robots for 6 years at Google, I didn’t fully understand why this was so important until I joined 1X. After going through the physics calculations myself, I came away with a much deeper conviction that lightweight, high torque motors are a key ingredient to building general-purpose learning robots.
