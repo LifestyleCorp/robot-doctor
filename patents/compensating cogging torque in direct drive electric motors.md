@@ -1,4 +1,4 @@
-METHOD AND A MEDIUM FOR COGGING COMPENSATING A MOTOR DRIVING SIGNAL
+# METHOD AND A MEDIUM FOR COGGING COMPENSATING A MOTOR DRIVING SIGNAL
 
 @1x_tech
 's US20220288776A1 patent introduces a method for compensating cogging torque in direct drive electric motors.
@@ -17,19 +17,19 @@ FIG. 2 illustrates the current measurements in both directions across a full mot
 ![alt text](GWZhV1FaQAA4t-S.jpeg)
 
 
-1. Core Innovation:
+# 1. Core Innovation:
 ✅ Calibration process to measure motor current requirements in both directions
 ✅ Averaging of bidirectional current measurements to isolate cogging effects
 ✅ Creation of a position-based compensation map for real-time cogging torque correction
 
-2. Key Components:
+# 2. Key Components:
 1️⃣ Direct drive electric motor with position sensor
 2️⃣ Motor controller for precise velocity control
 3️⃣ Current measurement system
 4️⃣ Data processing and mapping system
 5️⃣ Real-time compensation mechanism
 
-3. Key Technical Features:
+# 3. Key Technical Features:
 ✅ Low-speed, constant velocity motor control for calibration
 ✅ Bidirectional measurements to cancel out non-cogging effects
 ✅ Filtering and subsampling of current data
@@ -43,13 +43,13 @@ FIG. 5 shows the averaging of bidirectional measurements
  FIG. 6 illustrates the subsampling process for the look-up table.
 FIG. 8A and 8B provide a flowchart of the calibration and compensation processes.
 
-4. Operational Mechanism:
+# 4. Operational Mechanism:
 1️⃣ Calibration: Run motor at constant velocities in both directions, measuring required currents
 2️⃣ Data Processing: Average bidirectional measurements, filter, and subsample
 3️⃣ Map Generation: Create a look-up table of compensation currents by position
 4️⃣ Real-time Compensation: Use motor position to look up and apply delta current
 
-5. Key Advantages:
+# 5. Key Advantages:
 ✅ Enables smooth, jerk-free motion in direct drive applications
 ✅ Improves linearity of torque-current relationship
 ✅ Allows for open-loop torque control
@@ -63,7 +63,7 @@ This technology represents a significant advancement in direct drive motor contr
 
 ![alt text](GWZiQcCX0AApToY.png)
 
-Bibliography
+# Bibliography
 
 #️⃣ Patent No.: US20220288776A1
 📋 Title: Method and a medium for cogging compensating a motor driving signal
