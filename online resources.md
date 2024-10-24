@@ -13,6 +13,10 @@
 - 7X@7Xrobotics
 - ObotX - Open Source Robotics@open_robotx
 - 東京ロボティクス株式会社@Tokyo_Robotics
+- ヒト型レスキューロボットコンテスト@HumanoidRescon
+- KONDO_ROBOT@KONDO_ROBOT
+- 岡山大学ロボット研究会 そうじまる@okarobo
+- 金沢工業大学・ロボティクス学科　KIT_Robotics_News@kit_robotics
 - 
 
 
@@ -29,7 +33,13 @@
 - https://www.worldlabs.ai/
 - https://7xr.tech/
 - https://robotics.tokyo/
-- 
+- https://humanoid-rescon.org/
+- https://kondo-robot.com/
+- http://robot-force.jp/
+- https://robot-factory.blogspot.com/
+- https://okadairobot.wixsite.com/okarobo
+- https://www.kanazawa-it.ac.jp/
+- https://mclab.iit.tsukuba.ac.jp/
 
 
 ## Researchers
@@ -61,6 +71,8 @@
 - Ashish@ashishkr9311
 - Usman Roshan@Deeplearner2
 - Bhavyansh Mishra@BhavyanshM
+- 静大ロボットファクトリー(ロボファク)@twit_surf
+- Sho Sakaino (境野 翔)@shosakaino
 - 
 
 
@@ -70,6 +82,7 @@
 - https://www.youtube.com/@rail7462
 - https://www.youtube.com/@bhavyanshmishra
 - https://www.youtube.com/channel/UCelhcODsyXsgmT_npafxs-A
+- https://www.youtube.com/@motioncontrollaboratoryuni1103
 
 
 # github
