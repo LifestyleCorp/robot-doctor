@@ -7,71 +7,64 @@ To excel in industrial design, particularly in the specialized field of humanoid
 **Recommended Books**
 
 1. **"Medical Device Design: Innovation from Concept to Market" by Peter J. Ogrodnik**
-
-- ![e3d96261af66dfb76aa25889990c8d2d-g](https://github.com/user-attachments/assets/8fab721e-9e48-4b8c-a0ad-604838bb424f)
+![e3d96261af66dfb76aa25889990c8d2d-g](https://github.com/user-attachments/assets/8fab721e-9e48-4b8c-a0ad-604838bb424f)
 
 
    - *Overview:* This book provides a comprehensive guide to the entire medical device design process, from initial concept through to commercialization. It covers regulatory requirements, user needs, and design methodologies specific to medical devices.
    - *Application:* Use this book to understand the unique challenges and regulations in designing devices for healthcare, which is crucial when designing humanoid robots for medical assistance.
 
 2. **"Designing Sociable Robots" by Cynthia Breazeal**
-
-- ![a11fde4815bb8e29ff2cdc9802c9f1d0-d](https://github.com/user-attachments/assets/f8dcb27e-2eb9-453f-b5e8-ad52c2d464a1)
+![a11fde4815bb8e29ff2cdc9802c9f1d0-d](https://github.com/user-attachments/assets/f8dcb27e-2eb9-453f-b5e8-ad52c2d464a1)
 
 
    - *Overview:* Cynthia Breazeal explores the field of social robotics, focusing on how robots can interact with humans in meaningful ways. While not exclusively about industrial design, it offers valuable insights into human-robot interaction.
    - *Application:* Apply the principles from this book to design humanoid robots that can interact naturally with patients and healthcare professionals.
 
 3. **"Humanoid Robotics and Neuroscience: Science, Engineering and Society" edited by Gordon Cheng**
-
-- ![13f961122ba2c4db95a37e48eb9c5b78-d](https://github.com/user-attachments/assets/ef003fc1-1f3a-4b53-9c23-2d72d2fad23a)
+![13f961122ba2c4db95a37e48eb9c5b78-d](https://github.com/user-attachments/assets/ef003fc1-1f3a-4b53-9c23-2d72d2fad23a)
 
    - *Overview:* This book bridges the gap between neuroscience and humanoid robotics, discussing how understanding human neural mechanisms can inform robot design.
    - *Application:* Leverage this interdisciplinary approach to enhance the ergonomic and functional aspects of your robot design, ensuring it can perform tasks in a human-like manner.
 
 4. **"Industrial Design of Robots" by Isak Karabegović**
-
-- ![9781536177794-scaled-e1591025388176](https://github.com/user-attachments/assets/c0b0c2df-23d2-4b25-98b3-72a792f30e81)
+![9781536177794-scaled-e1591025388176](https://github.com/user-attachments/assets/c0b0c2df-23d2-4b25-98b3-72a792f30e81)
 
 
    - *Overview:* Although more technical, this book delves into the industrial design aspects specific to robotics, including aesthetics, functionality, and ergonomics.
    - *Application:* Use this as a guide to apply industrial design principles directly to robotic systems, focusing on form, function, and user interaction.
 
 5. **"Product Design for the Environment: A Life Cycle Approach" by Fabio Giudice, Guido La Rosa, and Antonino Risitano**
-- ![14854133e58d6a8c18d8a6e4d3cc7afb](https://github.com/user-attachments/assets/8a0bf863-8f15-4dc8-b9dc-2c0602a28de0)
+![14854133e58d6a8c18d8a6e4d3cc7afb](https://github.com/user-attachments/assets/8a0bf863-8f15-4dc8-b9dc-2c0602a28de0)
 
    - *Overview:* This book emphasizes sustainable design practices, which are increasingly important in all fields, including medical robotics.
    - *Application:* Integrate sustainable materials and design practices into your robot design, considering the environmental impact throughout the product's life cycle.
 
 6. **"The Industrial Design Reference & Specification Book" by Dan Cuffaro and Isaac Zaksenberg**
-- ![a325fad8333f5c33c6947f3c6515c033-d](https://github.com/user-attachments/assets/03aa4f6f-30c7-48dc-9f87-c88bdb7b8d5d)
+![a325fad8333f5c33c6947f3c6515c033-d](https://github.com/user-attachments/assets/03aa4f6f-30c7-48dc-9f87-c88bdb7b8d5d)
 
    - *Overview:* A handy reference that covers essential aspects of industrial design, including materials, manufacturing processes, and design considerations.
    - *Application:* Use this as a quick reference guide for material selection and design specifications relevant to medical-grade products.
 
 7. **"Human-Robot Interaction in Social Robotics" by Takayuki Kanda and Hiroshi Ishiguro**
-
-- ![5d5bebd24af576d6e346ab063b2af968-d](https://github.com/user-attachments/assets/de44848d-a3c2-4296-968e-e216f685099e)
+![5d5bebd24af576d6e346ab063b2af968-d](https://github.com/user-attachments/assets/de44848d-a3c2-4296-968e-e216f685099e)
 
    - *Overview:* This book explores the nuances of designing robots that interact seamlessly with humans.
    - *Application:* Focus on the chapters related to healthcare settings to understand how to make your humanoid robot more effective in social interactions with patients.
 
 8. **"Robotics: Modelling, Planning and Control" by Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, and Giuseppe Oriolo**
-- ![97490ff8f2d89651ab7d50e5fa2e16cf-d](https://github.com/user-attachments/assets/658d187a-c4ba-4c97-9679-2b33da101d89)
+![97490ff8f2d89651ab7d50e5fa2e16cf-d](https://github.com/user-attachments/assets/658d187a-c4ba-4c97-9679-2b33da101d89)
 
    - *Overview:* A comprehensive textbook on robotics, covering kinematics, dynamics, control, and planning.
    - *Application:* Deepen your technical understanding of robotic systems to inform your design process, ensuring your humanoid robot's movements are precise and safe for medical tasks.
 
 9. **"Designing Interactions" by Bill Moggridge**
-
-- ![9e8fb80327aceee56eddab36a3d8f0a9-g](https://github.com/user-attachments/assets/2ed7ce7b-438b-4f82-a580-84c9d9e48ad9)
+![9e8fb80327aceee56eddab36a3d8f0a9-g](https://github.com/user-attachments/assets/2ed7ce7b-438b-4f82-a580-84c9d9e48ad9)
 
    - *Overview:* While broader in scope, this book provides insights into how people interact with technology.
    - *Application:* Apply interaction design principles to enhance the usability of your robot, making it more intuitive for healthcare professionals and patients.
 
 10. **"The Design of Everyday Things" by Don Norman**
-
-- ![4bb8d08a9b309df7d86e62ec4056ceef-g](https://github.com/user-attachments/assets/316f7ead-3fc4-4025-94b6-c41855549253)
+![4bb8d08a9b309df7d86e62ec4056ceef-g](https://github.com/user-attachments/assets/316f7ead-3fc4-4025-94b6-c41855549253)
 
     - *Overview:* A classic text on user-centered design principles.
     - *Application:* Use this book to prioritize usability and intuitive design in your robot, crucial for acceptance in healthcare environments.
@@ -126,7 +119,7 @@ To excel in industrial design, particularly in the specialized field of humanoid
 
 1. **"Product Design and Development" by MIT OpenCourseWare**
 
-   - *Link:* [MIT OpenCourseWare - Product Design and Development](https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/pages/lecture-notes/)
+   - *Link:* [MIT OpenCourseWare - Product Design and Development]((https://ocw.mit.edu/courses/15-783j-product-design-and-development-spring-2006/pages/lecture-notes/))
    - *Application:* Gain a solid foundation in product design processes, which you can adapt to robot design.
 
 2. **"Robotics Specialization" by University of Pennsylvania on Coursera**
@@ -235,6 +228,7 @@ By immersing yourself in these resources and actively applying the knowledge gai
 - **Professional Organizations:**
 
   - **Industrial Designers Society of America (IDSA):** [IDSA Website](https://www.idsa.org/)
+  - **IDSA Medical vimeo**[video](https://vimeo.com/showcase/8702597)
   - **IEEE Robotics and Automation Society:** [IEEE RAS](https://www.ieee-ras.org/)
 
 - **Online Platforms for Research Papers:**
