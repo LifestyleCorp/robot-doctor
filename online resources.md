@@ -17,7 +17,8 @@
 - KONDO_ROBOT@KONDO_ROBOT
 - 岡山大学ロボット研究会 そうじまる@okarobo
 - 金沢工業大学・ロボティクス学科　KIT_Robotics_News@kit_robotics
-- 
+- PAL Robotics@PALRobotics
+- Open Robotics@OpenRoboticsOrg
 
 
 ## Research Labs
@@ -40,6 +41,22 @@
 - https://okadairobot.wixsite.com/okarobo
 - https://www.kanazawa-it.ac.jp/
 - https://mclab.iit.tsukuba.ac.jp/
+- [https://t.co/qqcy9VjGZY](https://www.openrobotics.org/)
+- https://www.open-rmf.org/
+- https://gazebosim.org/home
+- https://ros.org/
+- https://www.ieee-ras.org/
+- https://eu-robotics.net/
+- https://clearpathrobotics.com/
+- https://robohub.org/
+- https://picknik.ai/
+- https://www.iit.it/web/social-cognition-in-human-robot-interaction
+- https://therobotdecision.com/
+- https://www.ce.cit.tum.de/ics/people/cheng/
+- https://iprl.stanford.edu/
+- https://dair.seas.upenn.edu/
+- https://pal-robotics.com/
+- https://www.romela.org/
 
 
 ## Researchers
@@ -73,16 +90,30 @@
 - Bhavyansh Mishra@BhavyanshM
 - 静大ロボットファクトリー(ロボファク)@twit_surf
 - Sho Sakaino (境野 翔)@shosakaino
+- Zeyuan Allen-Zhu@ZeyuanAllenZhu
+- 細田耕@KohHosoda
+- Michael Posa@MichaelAPosa
+- https://goldberg.berkeley.edu/
+- https://sebastianrisi.com/
+- https://www.maryellenfoster.uk/
 - 
 
 
 
 # youtube
 
+- https://vimeo.com/osrfoundation
 - https://www.youtube.com/@rail7462
 - https://www.youtube.com/@bhavyanshmishra
 - https://www.youtube.com/channel/UCelhcODsyXsgmT_npafxs-A
 - https://www.youtube.com/@motioncontrollaboratoryuni1103
+- https://www.youtube.com/@Zeyuan-AllenZhu
+- https://www.youtube.com/@KohHosoda
+- https://www.youtube.com/channel/UCoLet2mlFGHZuoEnAwcZsOw
+- https://www.youtube.com/@machinesinmotionlabmovemen6833
+- 
+
+
 
 
 # github
@@ -97,12 +128,20 @@
 - https://github.com/xyzacademic
 - https://github.com/BhavyanshM
 - https://github.com/obotx/open-source-robotics
+- https://github.com/osrf/
+- https://github.com/open-rmf
+- https://github.com/DAIRLab
+- https://github.com/machines-in-motion
 - 
 
 
 # softwares
 - https://rail.eecs.berkeley.edu/code.html
 - https://www.aarondefazio.com/software.html
+- https://clearpathrobotics.com/indoornav/
+- https://clearpathrobotics.com/outdoor-autonomy-software/
+- https://docsend.com/view/jfsd7nwihx7kx9j4
+- 
 
 
 # datasets
