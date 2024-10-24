@@ -16,17 +16,17 @@ ICRA@ieee_ras_icra
 
 
 ## Researchers
--Georgia Chalvatzaki@GeorgiaChal
--Vignesh Prasad @ IROS'24@FatAndFurious42
--Georg Martius@gmartius
--Davide Scaramuzza@davsca1
--Abhishek Gupta@abhishekunique7
--Joel Jang@jang_yoel
--Saining Xie@sainingxie
--Olivier Stasse@OlivierStasse
--Russ Tedrake@RussTedrake
--Siddharth Karamcheti@siddkaramcheti
--Karl Pertsch@KarlPertsch
+- Georgia Chalvatzaki@GeorgiaChal
+- Vignesh Prasad @ IROS'24@FatAndFurious42
+- Georg Martius@gmartius
+- Davide Scaramuzza@davsca1
+- Abhishek Gupta@abhishekunique7
+- Joel Jang@jang_yoel
+- Saining Xie@sainingxie
+- Olivier Stasse@OlivierStasse
+- Russ Tedrake@RussTedrake
+- Siddharth Karamcheti@siddkaramcheti
+- Karl Pertsch@KarlPertsch
 
 
 
