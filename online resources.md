@@ -4,6 +4,8 @@
 Frank Dellaert@fdellaert
 
 ## Anonymous Accounts
+The Humanoid Hub@TheHumanoidHub
+
 
 ## Research Labs
 IEEE-RAS Int. Conf. on Humanoid Robots (HUMANOIDS)@HumanoidsConf
@@ -14,14 +16,18 @@ ICRA@ieee_ras_icra
 
 
 ## Researchers
-Georgia Chalvatzaki@GeorgiaChal
-Vignesh Prasad @ IROS'24@FatAndFurious42
-Georg Martius@gmartius
-Davide Scaramuzza@davsca1
-Abhishek Gupta@abhishekunique7
-Joel Jang@jang_yoel
-Saining Xie@sainingxie
-Olivier Stasse@OlivierStasse
+-Georgia Chalvatzaki@GeorgiaChal
+-Vignesh Prasad @ IROS'24@FatAndFurious42
+-Georg Martius@gmartius
+-Davide Scaramuzza@davsca1
+-Abhishek Gupta@abhishekunique7
+-Joel Jang@jang_yoel
+-Saining Xie@sainingxie
+-Olivier Stasse@OlivierStasse
+-Russ Tedrake@RussTedrake
+-Siddharth Karamcheti@siddkaramcheti
+-Karl Pertsch@KarlPertsch
+
 
 
 # youtube
@@ -30,6 +36,9 @@ Olivier Stasse@OlivierStasse
 # github
 https://github.com/borglab
 https://github.com/abhishekunique
+https://github.com/siddk
+
+
 
 
 # Sponsers
