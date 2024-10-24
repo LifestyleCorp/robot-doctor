@@ -1,19 +1,25 @@
 # twitter
 
 ## CEO/CTO
-Frank Dellaert@fdellaert
+- Frank Dellaert@fdellaert
+- John Carmack@ID_AA_Carmack
+- Jim Keller@jimkxa
+- Sam D'Amico@sdamico
+- 
 
 ## Anonymous Accounts
 The Humanoid Hub@TheHumanoidHub
 
 
 ## Research Labs
-IEEE-RAS Int. Conf. on Humanoid Robots (HUMANOIDS)@HumanoidsConf
-https://pearl-lab.com/
-Conference on Robot Learning@corl_conf
-https://www.corl.org/
-ICRA@ieee_ras_icra
-
+- IEEE-RAS Int. Conf. on Humanoid Robots (HUMANOIDS)@HumanoidsConf
+- https://pearl-lab.com/
+- Conference on Robot Learning@corl_conf
+- https://www.corl.org/
+- ICRA@ieee_ras_icra
+- https://rail.eecs.berkeley.edu/publications.html
+- https://members.loria.fr/SIvaldi/code/
+- 
 
 ## Researchers
 - Georgia Chalvatzaki@GeorgiaChal
@@ -27,19 +33,41 @@ ICRA@ieee_ras_icra
 - Russ Tedrake@RussTedrake
 - Siddharth Karamcheti@siddkaramcheti
 - Karl Pertsch@KarlPertsch
-
-
+- Dhruv Shah@shahdhruv_
+- Sergey Levine@svlevine
+- Quan Vuong@QuanVng
+- Serena Ivaldi@serena_ivaldi
+- Aaron Defazio@aaron_defazio
+- Alex Dimakis@AlexGDimakis
+- Hossein Mobahi@TheGradient
+- Eduard Gorbunov@ed_gorbunov
+- 
 
 # youtube
 
+- https://www.youtube.com/@rail7462
+- 
+
 
 # github
-https://github.com/borglab
-https://github.com/abhishekunique
-https://github.com/siddk
+- https://github.com/borglab
+- https://github.com/abhishekunique
+- https://github.com/siddk
+- https://kpertsch.github.io/
+- https://robodhruv.github.io/
+- https://github.com/inria-larsen
+- 
 
 
+# softwares
+- https://rail.eecs.berkeley.edu/code.html
+- https://www.aarondefazio.com/software.html
 
+
+# datasets
+- https://members.loria.fr/SIvaldi/datasets/
+
+- 
 
 # Sponsers
 
