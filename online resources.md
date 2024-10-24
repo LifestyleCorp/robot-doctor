@@ -8,7 +8,12 @@
 - 
 
 ## Anonymous Accounts
-The Humanoid Hub@TheHumanoidHub
+- The Humanoid Hub@TheHumanoidHub
+- borg™@borgrobotic
+- 7X@7Xrobotics
+- ObotX - Open Source Robotics@open_robotx
+- 東京ロボティクス株式会社@Tokyo_Robotics
+- 
 
 
 ## Research Labs
@@ -19,7 +24,13 @@ The Humanoid Hub@TheHumanoidHub
 - ICRA@ieee_ras_icra
 - https://rail.eecs.berkeley.edu/publications.html
 - https://members.loria.fr/SIvaldi/code/
+- https://www.tesla.com/AI
+- https://ai.meta.com/
+- https://www.worldlabs.ai/
+- https://7xr.tech/
+- https://robotics.tokyo/
 - 
+
 
 ## Researchers
 - Georgia Chalvatzaki@GeorgiaChal
@@ -41,12 +52,24 @@ The Humanoid Hub@TheHumanoidHub
 - Alex Dimakis@AlexGDimakis
 - Hossein Mobahi@TheGradient
 - Eduard Gorbunov@ed_gorbunov
+- Thomas Ahle@thomasahle
+- Marcus Hutter@mhutter42
+- Andrew McCalip@andrewmccalip
+- Khurram Javed@KhurramJaved_96
+- Jeremy Goldman@jermitron
+- Stephane Kasriel@skasriel
+- Ashish@ashishkr9311
+- Usman Roshan@Deeplearner2
+- Bhavyansh Mishra@BhavyanshM
 - 
+
+
 
 # youtube
 
 - https://www.youtube.com/@rail7462
-- 
+- https://www.youtube.com/@bhavyanshmishra
+- https://www.youtube.com/channel/UCelhcODsyXsgmT_npafxs-A
 
 
 # github
@@ -56,6 +79,11 @@ The Humanoid Hub@TheHumanoidHub
 - https://kpertsch.github.io/
 - https://robodhruv.github.io/
 - https://github.com/inria-larsen
+- https://github.com/thomasahle
+- https://github.com/Khurramjaved96
+- https://github.com/xyzacademic
+- https://github.com/BhavyanshM
+- https://github.com/obotx/open-source-robotics
 - 
 
 
@@ -105,6 +133,7 @@ The Humanoid Hub@TheHumanoidHub
 
 ![media](https://github.com/user-attachments/assets/411d328a-0154-4ef0-8358-6188d900e098)
 
+![600x200](https://github.com/user-attachments/assets/294ef343-4110-4c9a-973b-f60b0d772af2)
 
 
 
