@@ -1,4 +1,5 @@
 # ROBOT-DOCTOR : BAYMAX
+## (incomplete repo and currently we are at industrial design stage)
 
 ![1fe32616-a916-4504-b637-644867d7655e](https://github.com/user-attachments/assets/e8f25e03-72ec-4525-be40-59af384deb66)
 
