@@ -263,5 +263,4 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 If you have any questions or comments about Project Title, please contact :
 - **[Dr.Rahul Jaic Sam](https://github.com/rahuljaicsam)**
-- **Gmail: (rahuljaicsam@gmail.com)**
 - **Twitter : [@JaicSam](https://x.com/JaicSam)**
